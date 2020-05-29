@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace inclassdemo
+namespace GameCharacter
 {
-    class Program
+    class Mage
     {
-        static void Main(string[] args)
-        {8
-        }
     }
 }
